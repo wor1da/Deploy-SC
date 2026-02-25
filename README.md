@@ -10,5 +10,3 @@ cp .env.example .env
 nano .env
 # Add your private key from: cast wallet new
 source .env
-
-forge install foundry-rs/forge-std
