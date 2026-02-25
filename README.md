@@ -11,11 +11,11 @@ nano .env
 # Add your private key from: cast wallet new
 source .env
 
-Step 2: Install Dependencies
+### Step 2: Install Dependencies
 bash
 forge install foundry-rs/forge-std
 
-Step 3: Build & Test
+### Step 3: Build & Test
 bash
 forge build
 forge test -v
