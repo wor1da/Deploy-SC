@@ -12,10 +12,10 @@ nano .env
 source .env
 
 ### Step 2: Install Dependencies
-bash
+```bash
 forge install foundry-rs/forge-std
 
 ### Step 3: Build & Test
-bash
+```bash
 forge build
 forge test -v
