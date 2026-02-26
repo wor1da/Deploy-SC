@@ -81,7 +81,7 @@ Arc Network
 
 Solidity Docs
 
-# Deploy Steps
+# 🚀 Deploy Steps
 ### Step 1: Setup Environment
 ```bash
 cp .env.example .env
